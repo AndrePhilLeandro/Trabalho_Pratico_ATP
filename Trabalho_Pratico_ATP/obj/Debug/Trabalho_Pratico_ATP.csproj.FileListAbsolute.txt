@@ -1,0 +1,7 @@
+C:\Users\Administrador\Desktop\Trabalho_Pratico_ATP\Trabalho_Pratico_ATP\bin\Debug\Trabalho_Pratico_ATP.exe.config
+C:\Users\Administrador\Desktop\Trabalho_Pratico_ATP\Trabalho_Pratico_ATP\bin\Debug\Trabalho_Pratico_ATP.exe
+C:\Users\Administrador\Desktop\Trabalho_Pratico_ATP\Trabalho_Pratico_ATP\bin\Debug\Trabalho_Pratico_ATP.pdb
+C:\Users\Administrador\Desktop\Trabalho_Pratico_ATP\Trabalho_Pratico_ATP\obj\Debug\Trabalho_Pratico_ATP.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\Trabalho_Pratico_ATP\Trabalho_Pratico_ATP\obj\Debug\Trabalho_Pratico_ATP.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Trabalho_Pratico_ATP\Trabalho_Pratico_ATP\obj\Debug\Trabalho_Pratico_ATP.exe
+C:\Users\Administrador\Desktop\Trabalho_Pratico_ATP\Trabalho_Pratico_ATP\obj\Debug\Trabalho_Pratico_ATP.pdb
