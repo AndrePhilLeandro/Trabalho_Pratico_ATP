@@ -3,8 +3,11 @@
 ## Professora: Michelle Nery
 
 **Alunos:**
-- André Phillipe Leandro  
+- André Phillipe Leandro 
+- Lucas Ramalho de Barros Torres
 - Tadeu Gomes Brito  
+
+
 
 ## Descrição
 
